@@ -1,0 +1,5 @@
+charset-normalizer==3.4.4
+mlx==0.30.5
+pillow==12.1.1
+reportlab==4.4.10
+wheel==0.46.3
